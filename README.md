@@ -1,1 +1,2 @@
-# AppDot
+# AppDotNet
+application d'un superMarché 
